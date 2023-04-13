@@ -1,0 +1,45 @@
+.body{
+    width: 40rem;
+    height: 37rem;
+    margin: auto;
+}
+.azul{
+    background-color: blue;
+    width: 39rem;
+    height: 5rem;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 0.5rem;
+}
+.caja{
+    width: 39rem;
+    display: flex;
+    justify-content: space-between;
+    margin: 0.5rem;
+}
+.rojo{
+    width: 10rem;
+    height: 20rem;
+    background-color: red;
+}
+.verde{
+    background-color: green;
+    display: flex;
+    width: 28rem;
+    height: 20rem;
+    justify-content:space-evenly;
+}
+.anaranjado{
+    background-color:darkorange;
+    width: 100%;
+    height: 12rem;
+    margin: 0.7rem;
+}
+.morado{
+    background-color: blueviolet;
+    width: 39rem;
+    height: 10rem;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 0.5rem;
+}
