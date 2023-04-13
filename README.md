@@ -6,7 +6,7 @@
 
 ## Información
 
-|Nombre: | Katherine Jazmín García Chitamul|
-|--------|---------------------------------|
-|Colegio:| Santa Catalina Labouré          |
+|Nombre: |Katherine Jazmín García Chitamul|
+|--------|--------------------------------|
+|Colegio:|Santa Catalina Labouré          |
 |Mi trabajo:|https://kgarcia18.github.io/Ejercicio_flexbox/ |
